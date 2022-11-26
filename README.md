@@ -1,7 +1,9 @@
 # Cipher-Practice
 The are three practices about cipher, one is the problem of caesar cipher in UVA, another is the problem of ancient cipher in UVA,
-the other is use frequency analysis to decrypt an article
+the other is use frequency analysis to decrypt an article.
 
+## Environment
+python 3.9.1
 
 ## Problem_1
 * UVa 12604 - Caesar Cipher<br>
